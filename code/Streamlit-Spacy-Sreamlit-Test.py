@@ -90,7 +90,7 @@ chart2 = {
 tab1, tab2, tab3 = st.tabs(["View One", "View Two", "View Three"])
 
 with tab1:
-    st.vega_lite_chart(ddf, chart1, use_container_width=True)
+    st.vega_lite_chart(sy, chart1, use_container_width=True)
 with tab2:
     st.vega_lite_chart(sy, chart2, theme=None, use_container_width=True)
 with tab3:
