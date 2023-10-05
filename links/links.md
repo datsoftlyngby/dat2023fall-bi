@@ -18,4 +18,8 @@
 
 [Habds-On Machine Learning Notebooks and Tutorials]  (https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
 
+More data repos:
+https://www.javatpoint.com/how-to-get-datasets-for-machine-learning
+https://archive.ics.uci.edu/datasets
+https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
 
