@@ -13,7 +13,7 @@
 
 [Towards Data Science KNN tutorial](https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a)
 
-[Hands-On Machine Learning Notebooks and Tutorials]  (https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
+[Hands-On Machine Learning Notebooks and Tutorials](https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
 
 More data repos:
 - https://www.javatpoint.com/how-to-get-datasets-for-machine-learning
