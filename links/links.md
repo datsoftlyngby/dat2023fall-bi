@@ -6,9 +6,6 @@
 
 [Bayes' Theorem explainer](https://towardsdatascience.com/simple-guide-to-solving-bayes-theorem-problems-a594edc3e245)
 
-[Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
-
-[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
 [RealPython.com K Nearest Neighbours Example](https://realpython.com/knn-python/)
 
@@ -16,10 +13,12 @@
 
 [Towards Data Science KNN tutorial](https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a)
 
-[Habds-On Machine Learning Notebooks and Tutorials]  (https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
+[Hands-On Machine Learning Notebooks and Tutorials]  (https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
 
 More data repos:
-https://www.javatpoint.com/how-to-get-datasets-for-machine-learning
-https://archive.ics.uci.edu/datasets
-https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
+- https://www.javatpoint.com/how-to-get-datasets-for-machine-learning
+- https://archive.ics.uci.edu/datasets
+- https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
+- [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
+- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
