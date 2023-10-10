@@ -19,6 +19,7 @@ More data repos:
 - https://www.javatpoint.com/how-to-get-datasets-for-machine-learning
 - https://archive.ics.uci.edu/datasets
 - https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
+- https://www.statista.com/statistics/1125421/world-mine-reserves-of-gold/
 - [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 

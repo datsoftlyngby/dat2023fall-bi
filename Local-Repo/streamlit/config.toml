@@ -1,0 +1,9 @@
+[server]
+sslCertFile = '/Users/tdi/Documents/Holodeck/Code/3D-Force/server.pem'
+sslKeyFile = '/Users/tdi/Documents/Holodeck/Code/3D-Force/key.pem'
+
+# sslCertFile = '/path/to/certchain.pem'
+# sslKeyFile = '/path/to/private.key'
+
+[browser]
+gatherUsageStats = false

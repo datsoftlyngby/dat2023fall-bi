@@ -1,0 +1,24 @@
+[[pages]]
+path = "local-repo/myapp.py"
+name = "Home"
+icon = ":house:"
+
+[[pages]]
+path = "local-repo/geo.py"
+name = "Example One"
+icon = ":books:"
+
+[[pages]]
+path = "local-repo/neo.py"
+name = "Example Four"
+icon = "📖"
+
+[[pages]]
+path = "local-repo/qa.py"
+name = "Example Two"
+icon = "✏️"
+
+[[pages]]
+path = "local-repo/bye.py"
+name = "Example Five"
+icon = "🧰"
